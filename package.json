@@ -25,7 +25,7 @@
     "node": "*"
   },
   "dependencies": {
-    "customizr": "https://github.com/Modernizr/customizr/tarball/develop",
+    "customizr": "https://github.com/Modernizr/customizr.git#af4a35887bbfe0478390a1ac0571e022867062df",
     "lodash.merge": "^4.0.1"
   },
   "devDependencies": {
